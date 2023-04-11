@@ -11,10 +11,12 @@
 * [11:45-12:45: Introduction to School (Viviana and Zeljko)]()
 
 ### June 6 (Tuesday)
+* Quasars (Stefano Cristiani)
 
 ### June 7 (Wednesday)
 
 ### June 8 (Thursday)
+* Quasar Surveys (Stefano Cristiani)
 
 ### June 9 (Friday)
 
